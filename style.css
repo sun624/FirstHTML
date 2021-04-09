@@ -1,0 +1,28 @@
+body {
+    background-color: wheat;
+}
+
+.menu {
+    background-color: lightblue;
+    height: 50px;
+    width: 100%;
+
+    position: fixed;
+    top: 0px;
+   
+
+}
+
+.menu ul{
+    list-style-type: none;
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+
+a {
+    text-decoration: none;
+    font-size: x-large;
+}
+
